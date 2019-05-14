@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RafaelDavisH/react-portfolio/static/css/main.2cce8147.chunk.css",
-    "main.js": "/RafaelDavisH/react-portfolio/static/js/main.dee3f97c.chunk.js",
-    "main.js.map": "/RafaelDavisH/react-portfolio/static/js/main.dee3f97c.chunk.js.map",
-    "runtime~main.js": "/RafaelDavisH/react-portfolio/static/js/runtime~main.f4ada388.js",
-    "runtime~main.js.map": "/RafaelDavisH/react-portfolio/static/js/runtime~main.f4ada388.js.map",
-    "static/js/2.5bf9cfb2.chunk.js": "/RafaelDavisH/react-portfolio/static/js/2.5bf9cfb2.chunk.js",
-    "static/js/2.5bf9cfb2.chunk.js.map": "/RafaelDavisH/react-portfolio/static/js/2.5bf9cfb2.chunk.js.map",
-    "index.html": "/RafaelDavisH/react-portfolio/index.html",
-    "precache-manifest.a0ac16817e503ae3c114909548d66f1b.js": "/RafaelDavisH/react-portfolio/precache-manifest.a0ac16817e503ae3c114909548d66f1b.js",
-    "service-worker.js": "/RafaelDavisH/react-portfolio/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/RafaelDavisH/react-portfolio/static/css/main.2cce8147.chunk.css.map",
-    "static/media/webdevResume.pdf": "/RafaelDavisH/react-portfolio/static/media/webdevResume.df4eacf0.pdf"
+    "main.css": "/react-portfolio/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.85988b9f.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.85988b9f.chunk.js.map",
+    "runtime~main.js": "/react-portfolio/static/js/runtime~main.f974a8eb.js",
+    "runtime~main.js.map": "/react-portfolio/static/js/runtime~main.f974a8eb.js.map",
+    "static/js/2.5bf9cfb2.chunk.js": "/react-portfolio/static/js/2.5bf9cfb2.chunk.js",
+    "static/js/2.5bf9cfb2.chunk.js.map": "/react-portfolio/static/js/2.5bf9cfb2.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.e3b2dbfcc7f1cf67554c0f927f2c4680.js": "/react-portfolio/precache-manifest.e3b2dbfcc7f1cf67554c0f927f2c4680.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-portfolio/static/css/main.2cce8147.chunk.css.map",
+    "static/media/webdevResume.pdf": "/react-portfolio/static/media/webdevResume.df4eacf0.pdf"
   }
 }
