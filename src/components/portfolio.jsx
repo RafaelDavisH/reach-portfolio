@@ -14,6 +14,21 @@ export default class Portfolio extends Component {
                         </div>
                         <div className="row no-gutters">
                             <div className="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+                                <a href="https://rafaeldavis.me/" className="image d-flex justify-content-center align-items-center" style={{backgroundImage: 'url("images/landPortfolioSite.png")'}} data-scrollax=" properties: { translateY: '-30%'}">
+                                    <div className="icon d-flex text-center justify-content-center align-items-center">
+                                        <span className="icon-search"></span>
+                                    </div>
+                                </a>
+                                <div className="text">
+                                    <h4 className="subheading">React</h4>
+                                    <h2 className="heading"><a href="portfolio-single.html">Portfolio Updated with React</a></h2>
+                                    <p>Single-page portfolio highlighting my professional experience as Software Engineer, projects and prefer ways to get in contact with me.
+                                        I found easy to get started building with React. I loved how straightfoward it is to organized and managed an application.
+                                    </p>
+                                    <p><a href="https://github.com/RafaelDavisH/react-portfolio" target="_blank">Github</a></p>
+                                </div>
+                            </div>
+                            <div className="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
                                 <a href="https://map.rafaeldavis.me/" className="image d-flex justify-content-center align-items-center" style={{backgroundImage: 'url("images/neigborhoodMap.png")'}} data-scrollax=" properties: { translateY: '-30%'}">
                                     <div className="icon d-flex text-center justify-content-center align-items-center">
                                         <span className="icon-search"></span>

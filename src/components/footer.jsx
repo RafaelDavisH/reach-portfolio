@@ -23,7 +23,7 @@ export default class Footer extends Component {
                         <div  className="row">
                             <div className="col-md-12 text-center">
                                 <p>{/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                                   An React App Site &nbsp;&nbsp; Copyright © All rights reserved &nbsp;&nbsp; <i className="ion-md-glasses" aria-hidden="true" style={{color: 'black'}} /> &nbsp; Site Inspired by <i className="icon-heart" aria-hidden="true" style={{color: 'red'}} /> by <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a>
+                                Created with React &nbsp;&nbsp; Copyright © All rights reserved &nbsp;&nbsp; <i className="ion-md-glasses" aria-hidden="true" style={{color: 'black'}} /> &nbsp; Design inspired by <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a>
                                 {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}</p>
                             </div>
                         </div>

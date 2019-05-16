@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import PhoneNumber from 'react-phone-number'
-import pdf from '../docs/webdevResume.pdf'
+import pdf from '../docs/SoftEngResume.pdf'
 
 export default class About extends Component {
     render() {
