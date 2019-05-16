@@ -14,7 +14,7 @@ export default class Portfolio extends Component {
                         </div>
                         <div className="row no-gutters">
                             <div className="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                                <a href="https://rafaeldavis.me/" className="image d-flex justify-content-center align-items-center" style={{backgroundImage: 'url("images/landPortfolioSite.png")'}} data-scrollax=" properties: { translateY: '-30%'}">
+                                <a href="https://rafaeldavis.me/" className="image d-flex justify-content-center align-items-center" style={{backgroundImage: 'url("images/landPortfolioSite.PNG")'}} data-scrollax=" properties: { translateY: '-30%'}">
                                     <div className="icon d-flex text-center justify-content-center align-items-center">
                                         <span className="icon-search"></span>
                                     </div>
