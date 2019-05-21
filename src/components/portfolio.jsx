@@ -14,6 +14,22 @@ export default class Portfolio extends Component {
                         </div>
                         <div className="row no-gutters">
                             <div className="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+                                <a href="https://codepen.io/RafaelDavisH/project/editor/DyanzQ" className="image d-flex justify-content-center align-items-center" style={{backgroundImage: 'url("images/responsivepiano.PNG")'}} data-scrollax=" properties: { translateY: '-30%'}">
+                                    <div className="icon d-flex text-center justify-content-center align-items-center">
+                                        <span className="icon-search"></span>
+                                    </div>
+                                </a>
+                                <div className="text">
+                                    <h4 className="subheading">Responsive Web Design Piano</h4>
+                                    <h2 className="heading"><a href="portfolio-single.html">freeCodeCamp Curriculum Expansion</a></h2>
+                                    <p>I got excited when a saw Quincy Larson's, the founder of freeCodeCamp, invitation to help build the new version of the freeCodeCamp curriculum.
+                                     The curriculum will be 100% project-driven learning. I am currently working on the "Learn Responsive Web Design by Building a Piano" project.
+                                    </p>
+                                    <p><a href="https://github.com/freeCodeCamp/CurriculumExpansion/tree/master/responsive-web-design-piano" target="_blank">Github</a></p>
+                                    <p><a href="https://codepen.io/RafaelDavisH/project/editor/DyanzQ" target="_blank">CodePen</a></p>
+                                </div>
+                            </div>
+                            <div className="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
                                 <a href="https://rafaeldavis.me/" className="image d-flex justify-content-center align-items-center" style={{backgroundImage: 'url("images/landPortfolioSite.PNG")'}} data-scrollax=" properties: { translateY: '-30%'}">
                                     <div className="icon d-flex text-center justify-content-center align-items-center">
                                         <span className="icon-search"></span>
