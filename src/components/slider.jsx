@@ -22,7 +22,7 @@ export default class Slider extends Component {
                                 <div className="row slider-text align-items-center text-center justify-content-center" data-scrollax-parent="true">
                                     <div className="col-md-12 ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
                                         <p><a href="https://rafaeldavis.me" className="scroll">I'm from Los Angeles</a></p>
-                                        <h1 className="mb-3" data-scrollax="properties: {translateY: '30%', opacity: 1.6}">A Software Engineer</h1>
+                                        <h1 className="mb-3" data-scrollax="properties: {translateY: '30%', opacity: 1.6}">A Web Developer</h1>
                                     </div>
                                 </div>
                             </div>
