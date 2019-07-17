@@ -1,7 +1,6 @@
 import React, {Component} from 'react'
 import PhoneNumber from 'react-phone-number'
 
-let resumedoc = 'https://drive.google.com/open?id=1i2zdnbQ5jqwfd4OS2ZZfC-t4lGq1cMKZ';
 
 export default class About extends Component {
     render() {
@@ -20,7 +19,7 @@ export default class About extends Component {
                                         <p>I am self-driven Web Developer and Open Source Contributor with three plus years of experience in Web Development. Strong creative and 
                                         analytical skills. Team player with an eye for detail. Expertise: Python, JavaScript, HTML, CSS, Responsive Design, Illustrator, and Photoshop.
                                         </p>
-                                        <p><a href={resumedoc} target="_blank">Checkout my resume</a></p>
+                                        <p><a href="https://drive.google.com/open?id=1i2zdnbQ5jqwfd4OS2ZZfC-t4lGq1cMKZ" target="_blank">Checkout my resume</a></p>
                                         {/* <ul className="ftco-footer-social list-unstyled mt-4">
                                             <li><a href="https://www.linkedin.com/in/rafaeldavish/"><span className="icon-linkedin" /></a></li>
                                             <li><a href="https://github.com/RafaelDavisH"><span className="icon-github" /></a></li>
