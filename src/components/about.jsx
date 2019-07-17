@@ -1,6 +1,7 @@
 import React, {Component} from 'react'
 import PhoneNumber from 'react-phone-number'
-import pdf from '../docs/WebdevResume.pdf'
+
+let resumedoc = 'https://drive.google.com/open?id=1i2zdnbQ5jqwfd4OS2ZZfC-t4lGq1cMKZ';
 
 export default class About extends Component {
     render() {
@@ -16,12 +17,11 @@ export default class About extends Component {
                                     <h1 className="bold-text">About</h1>
                                     <div className="p-5">
                                         <h2 className="mb-5">Hi! I'm Rafael Davis H.</h2>
-                                        <p>I'm a career changer, and I understand the grind it takes to establish myself in the world of tech as a Developer.
-                                            A firm believer in always seeking new opportunities to grow as an individual and professional. 
-                                            Most importantly, I am a family man, who loves his wife and baby girl. I also enjoy outdoor activities, art, and
-                                            watching professional basketball games.</p>
-                                        <p><a href={pdf} target="_blank">Checkout my resume</a></p>
-                                        <ul className="ftco-footer-social list-unstyled mt-4">
+                                        <p>I am self-driven Web Developer and Open Source Contributor with three plus years of experience in Web Development. Strong creative and 
+                                        analytical skills. Team player with an eye for detail. Expertise: Python, JavaScript, HTML, CSS, Responsive Design, Illustrator, and Photoshop.
+                                        </p>
+                                        <p><a href={resumedoc} target="_blank">Checkout my resume</a></p>
+                                        {/* <ul className="ftco-footer-social list-unstyled mt-4">
                                             <li><a href="https://www.linkedin.com/in/rafaeldavish/"><span className="icon-linkedin" /></a></li>
                                             <li><a href="https://github.com/RafaelDavisH"><span className="icon-github" /></a></li>
                                         </ul>
@@ -29,7 +29,7 @@ export default class About extends Component {
                                         <p>Email: <a href="mailto: rafaeldavish443@gmail.com">rafaeldavish443@gmail.com</a></p>
                                         <p>Phone: 
                                             <PhoneNumber number="+3235530135" isLinked={true}/>
-                                        </p>
+                                        </p> */}
                                     </div>
                                 </div>
                             </div>

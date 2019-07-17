@@ -9,39 +9,38 @@ export default class Portfolio extends Component {
                         <div className="row justify-content-center mb-5 pb-5">
                             <div className="col-md-7 text-center heading-section ftco-animate">
                                 <span>Portfolio</span>
-                                <h2>Checkout a few of my Projects</h2>
+                                <h2>Check out some of my Projects</h2>
                             </div>
                         </div>
                         <div className="row no-gutters">
                             <div className="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                                <a href="https://codepen.io/RafaelDavisH/project/editor/DyanzQ" className="image d-flex justify-content-center align-items-center" style={{backgroundImage: 'url("images/responsivepiano.PNG")'}} data-scrollax=" properties: { translateY: '-30%'}">
+                                <a href="https://Learn-CSS-by-building-a-Blog--rafaeldavish.repl.co" className="image d-flex justify-content-center align-items-center" style={{backgroundImage: 'url("images/responsive-blog.PNG")'}} data-scrollax=" properties: { translateY: '-30%'}" target="_blank" >
                                     <div className="icon d-flex text-center justify-content-center align-items-center">
                                         <span className="icon-search"></span>
                                     </div>
                                 </a>
                                 <div className="text">
-                                    <h4 className="subheading">Responsive Web Design Piano</h4>
-                                    <h2 className="heading"><a href="portfolio-single.html">freeCodeCamp Curriculum Expansion</a></h2>
-                                    <p>I got excited when a saw Quincy Larson's, the founder of freeCodeCamp, invitation to help build the new version of the freeCodeCamp curriculum.
-                                     The curriculum will be 100% project-driven learning. I am currently working on the "Learn Responsive Web Design by Building a Piano" project.
+                                    {/* <h4 className="subheading">Responsive Blog</h4> */}
+                                    <h2 className="heading"><a href="https://Learn-CSS-by-building-a-Blog--rafaeldavish.repl.co" target="_blank">Responsive Web Design Blog</a></h2>
+                                    <p>Final project designed to be used as reference to create the lessons that will teach the Basics of CSS by building a responsive blog.
                                     </p>
-                                    <p><a href="https://github.com/freeCodeCamp/CurriculumExpansion/tree/master/responsive-web-design-piano" target="_blank">Github</a></p>
-                                    <p><a href="https://codepen.io/RafaelDavisH/project/editor/DyanzQ" target="_blank">CodePen</a></p>
+                                    <p><a href="https://repl.it/@RafaelDavisH/Learn-CSS-by-building-a-Blog" target="_blank">Repl.it</a></p>
+                                    <p><a href="https://Learn-CSS-by-building-a-Blog--rafaeldavish.repl.co" target="_blank">Live Site</a></p>
                                 </div>
                             </div>
                             <div className="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                                <a href="https://rafaeldavis.me/" className="image d-flex justify-content-center align-items-center" style={{backgroundImage: 'url("images/landPortfolioSite.PNG")'}} data-scrollax=" properties: { translateY: '-30%'}">
+                                <a href="https://codepen.io/RafaelDavisH/project/editor/DyanzQ" className="image d-flex justify-content-center align-items-center" style={{backgroundImage: 'url("images/responsivepiano.PNG")'}} data-scrollax=" properties: { translateY: '-30%'}" target="_blank">
                                     <div className="icon d-flex text-center justify-content-center align-items-center">
                                         <span className="icon-search"></span>
                                     </div>
                                 </a>
                                 <div className="text">
-                                    <h4 className="subheading">React</h4>
-                                    <h2 className="heading"><a href="portfolio-single.html">Portfolio Updated with React</a></h2>
-                                    <p>Single-page portfolio highlighting my professional experience as Software Engineer, projects and prefer ways to get in contact with me.
-                                        I found easy to get started building with React. I loved how straightfoward it is to organized and managed an application.
+                                    {/* <h4 className="subheading">Responsive Web Design Piano</h4> */}
+                                    <h2 className="heading"><a href="https://codepen.io/RafaelDavisH/project/editor/DyanzQ" target="_blank">Responsive Web Design Piano</a></h2>
+                                    <p>More than 50 lessons that teach the fundamentals of responsive web design by building a piano. Created as part of freeCodeCamp's new project based curriculum.
                                     </p>
-                                    <p><a href="https://github.com/RafaelDavisH/react-portfolio" target="_blank">Github</a></p>
+                                    <p><a href="https://github.com/freeCodeCamp/CurriculumExpansion/tree/master/responsive-web-design-piano" target="_blank">Github</a></p>
+                                    <p><a href="https://codepen.io/RafaelDavisH/project/editor/DyanzQ" target="_blank">CodePen</a></p>
                                 </div>
                             </div>
                             <div className="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
@@ -51,28 +50,30 @@ export default class Portfolio extends Component {
                                     </div>
                                 </a>
                                 <div className="text">
-                                    <h4 className="subheading">Google API</h4>
-                                    <h2 className="heading"><a href="portfolio-single.html">My favorite food and dessert spots.</a></h2>
-                                    <p>Single-page application featuring a map with my favorite food spots in around Los Angeles, CA. Using the google API to load markers animated
-                                        with for better user experience. The markers display basic information of each spot using Google's infowindow functionality and populated with
-                                        data from a javascript file and saved images.
+                                    {/* <h4 className="subheading">Google API</h4> */}
+                                    <h2 className="heading"><a href="https://map.rafaeldavis.me/" target="_blank">My favorite food and dessert spots.</a></h2>
+                                    <p>Single-page application that uses Bootstrap, CSS Grid, Knockout.js, Google Maps and Foursquare API to display my favorite food spots around LA.
+                                    The markers display information about each spot using Google's Info Windows and saved images.
                                     </p>
                                     <p><a href="https://github.com/RafaelDavisH/LATastyBites.com" target="_blank">Github</a></p>
-                                    <p><a href="https://map.rafaeldavis.me/" target="_blank">Website</a></p>
+                                    <p><a href="https://map.rafaeldavis.me/" target="_blank">Live Site</a></p>
                                 </div>
                             </div>
                             <div className="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-                                <a href="https://quotes.rafaeldavis.me/" className="image order-2 d-flex justify-content-center align-items-center" style={{backgroundImage: 'url("images/landingPage.png")'}} data-scrollax=" properties: { translateY: '-30%'}">
+                                <a href="https://quotes.rafaeldavis.me/" className="image order-2 d-flex justify-content-center align-items-center" style={{backgroundImage: 'url("images/landingPage.png")'}} data-scrollax=" properties: { translateY: '-30%'}" target="_blank">
                                     <div className="icon d-flex text-center justify-content-center align-items-center">
                                         <span className="icon-search"></span>
                                     </div>
                                 </a>
                                 <div className="text order-1">
-                                    <h4 className="subheading">CRUD Application</h4>
-                                    <h2 className="heading"><a href="portfoli-singleo.html">A Collection of Quotes</a></h2>
-                                    <p>Bilt a data driven web application with Flask's framework. Configured database using SQLAlchemy. Hosted on AWS lightsail by creating a Ubuntu instance, secured it.</p>
+                                    {/* <h4 className="subheading">CRUD Application</h4> */}
+                                    <h2 className="heading">Pot of Quotes</h2>
+                                    <p>CRUD Web Application. A web application that provides a list of quotes within a variety of categories as well provides a user registration and authentication system.
+                                    This application uses persistent data storage to create a RESTful web application that allows users to perform Read, Update, and Delete operations. The registration and
+                                    authentication its done using oAuth 2.0 to access Google API and utilized Google Sign-in. The application also provides three secured JSON Endpoint.  
+                                    </p>
                                     <p><a href="https://github.com/RafaelDavisH/pot-of-quotes-app" target="_blank">Github</a></p>
-                                    <p><a href="https://quotes.rafaeldavis.me/" target="_blank">Website</a></p>
+                                    {/* <p><a href="https://quotes.rafaeldavis.me/" target="_blank">Website</a></p> */}
                                 </div>
                             </div>
                         </div>
